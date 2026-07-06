@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Data Dashboard",
+  "description": "An interactive real-time data visualization dashboard featuring analytical charts, custom filters, correlation heatmaps, and transaction CRUD operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
